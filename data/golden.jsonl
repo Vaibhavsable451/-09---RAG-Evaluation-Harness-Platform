@@ -1,0 +1,6 @@
+{"q": "How many vacation days carry over?", "relevant": ["leave"], "reference": "Up to 5 days."}
+{"q": "What is the meal reimbursement per day?", "relevant": ["expense"], "reference": "60 USD per day."}
+{"q": "How long is parental leave?", "relevant": ["leave"], "reference": "16 weeks fully paid."}
+{"q": "How often must passwords be rotated?", "relevant": ["security"], "reference": "Every 180 days."}
+{"q": "Can I work fully remote?", "relevant": ["remote"], "reference": "Requires VP approval."}
+{"q": "How much is the learning budget?", "relevant": ["learning"], "reference": "1,500 USD per year."}
